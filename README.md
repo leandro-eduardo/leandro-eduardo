@@ -1,19 +1,21 @@
 ### Olá, eu sou o Leandro. Seja muito bem-vindo ao meu GitHub! 👋
 ##
 <br>
-<div align="center">
-  <!--github stats-->
+<!--github stats-->
+<div>
   <a href="https://github.com/leandro-eduardo">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandro-eduardo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=15px"/>  
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-eduardo&layout=compact&langs_count=10&hide=GLSL,ShaderLab&theme=gotham&border_radius=15px"/>
 </div> 
 <br>
+<!--socials-->
 <div align="center"> 
   <a href="https://instagram.com/leandro.sx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leandro.silva.eduardo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-silva-eduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
+<!--icons and snake-->
 <div style="display: inline_block" align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
