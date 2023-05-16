@@ -1,4 +1,4 @@
-### ***<p align="center">Seja muito bem-vindo(a) ao meu GitHub! 👋</p>***
+### <p align="center">Seja muito bem-vindo(a) ao meu GitHub! 👋</p>
 ##
 <br>
 <!--github stats-->
