@@ -1,4 +1,4 @@
-### Olá, eu sou o Leandro. Seja muito bem-vindo ao meu GitHub! 👋
+### ***<p align="center">Seja muito bem-vindo(a) ao meu GitHub! 👋</p>***
 ##
 <br>
 <!--github stats-->
